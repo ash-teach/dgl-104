@@ -1,9 +1,7 @@
 # 💻
 
 <h1 id="cover-heading">
-  Docsify Open MultiCourse Hub
+  DGL 104 Hub
 </h1>
 
-[CPT363-1](cpt363-1/home.md)
-[CPT363-2](cpt363-2/home.md)
-[CPT363-3](cpt363-3/home.md)
+[DGL104-2023WI](dgl104-2023wi/home.md)
