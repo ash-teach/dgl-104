@@ -26,3 +26,8 @@ body .markdown-section {
 .cc-license-text {
     font-size: small;
 }
+
+.cc-license-text a {
+    display: contents;
+}
+
