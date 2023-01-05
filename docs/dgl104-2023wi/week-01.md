@@ -31,12 +31,12 @@ As an early sequence course in the development of mobile apps you won't be devel
 ---
 This site, hosted on [GitHub Pages](https://pages.github.com/) and built using the [Docsify Open Multicourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) is intended as an open educational resource (OER) licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> (except where otherwise noted) and so is free to use by anyone, not only registered students of DGL 104. 
 
-### If you are an NIC student registered in DGL 104... 
+### IF YOU ARE AN NIC STUDENT REGISTERED IN DGL 104... 
 you will get the most value out of this site by *reading* and *watching* the assigned content *in advance of* scheduled class time for that week. Doing so *with intention* will sufficiently prepare you for class each week, where you can expect to dig into the topics presented here in more detail.
 
 Each week's content also includes some activities for *research*, *reflection*, and often related to major course [assignments](). In most cases, you will complete these activities in class; however, spending some time considering them in advance will mean you are better prepared at class time. I may, from time to time, also assign these activities as homework to be completed outside of class.
 
-### If you are not registered in DGL 104...
+### IF YOU ARE NOT REGISTERED IN DGL 104...
 or are not even an NIC student, please feel free to use this content as you see fit. You are free to learn from it, or to adapt it to your own non-commercial purposes, under the permissions granted by the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. If you do make use of the content here, please feel free to reach out to me to let me know if you've found it useful. You can contact me at: ashley dot blacquiere at nic dot bc dot ca.
 
 
