@@ -1,6 +1,6 @@
-# Contact
+# Contact <!-- {docsify-ignore} -->
 
-## Course Instructor  
+## Course Instructor <!-- {docsify-ignore} -->
 Ashley Blacquiere
 ashley.blacquiere@nic.bc.ca  
 

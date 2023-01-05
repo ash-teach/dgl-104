@@ -37,39 +37,39 @@ For the initial submission:
 6. Idea reflection: Write a document / presentation / poem / whatever, or record a video / livestream / whatever you like that explains your goals in clear language. Make sure that your goals are actionable (i.e. they say *what* you're going to do), achievable (i.e. they are *possible* given what you know and what you think you will soon learn) and measurable (i.e. you explain *how you'll know* when you've met the goal).
 
 On check-in revision you can repeat some or all of the steps above, and / or you can examine the work you've done for DGL 104 so far and the feedback you've received. Think about what you might need to work on to improve, and think again about what excites you about DGL 104. 
-### SUGGESTIONS AND STRATEGIES
+### SUGGESTIONS AND STRATEGIES <!-- {docsify-ignore} -->
 - The first submission is due the second week of class! But don't leave it til the night before to complete it - start early, and work over multiple sessions. Your goals will be much better articulated if you take time to let the ideas you come up with process before trying to pin them down. 
 - Don't worry if you don't have quite the right idea for your goals - there is plenty of opportunity to revise!
 - Be brave! Take some risks! If you find your goals are too lofty, we can always revise later!
 - Note that your goals (and whether or not you've met them) will be a key component of your self-evaluations.
 
 ---
-## RESEARCH AND REFLECTION JOURNAL
-### OBJECTIVE
+## RESEARCH AND REFLECTION JOURNAL <!-- {docsify-ignore} -->
+### OBJECTIVE <!-- {docsify-ignore} -->
 To produce a portfolio of research and reflection related to course content.
 
-### DEADLINE
+### DEADLINE <!-- {docsify-ignore} -->
 Ongoing. Complete research and reflection work weekly and submit at mid-semester and end-of-semester.
 
-### WHAT YOU'RE GOING TO DO
+### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 1. Read / watch all assigned weekly content.
 2. Attend class and participate in activities.
 3. Do your homework, and keep up with course objectives.
 3. Record your answers and thoughts in a GitHub repository.
 
-### SUGGESTIONS AND STRATEGIES
+### SUGGESTIONS AND STRATEGIES <!-- {docsify-ignore} -->
 - Research and reflection activities are posted in each week's content. In many cases we'll do these activities (partially guided) in class, but feel free to get a jump on them and start thinking about them early.
 - You can record your responses in any modality you wish (written or otherwise recorded) as long as at least a link can be posted to a GitHub repo. 
 
 ---
-## PROGRAMMING PRACTICE ARTICLE
-### OBJECTIVE
+## PROGRAMMING PRACTICE ARTICLE <!-- {docsify-ignore} -->
+### OBJECTIVE <!-- {docsify-ignore} -->
 To write a compelling article on a topic of your choice for future inclusion in a potential open source textbook.
 
-### DEADLINE
+### DEADLINE <!-- {docsify-ignore} -->
 Week 6 (Week of February 13)
 
-### WHAT YOU'RE GOING TO DO
+### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 A key method of demonstrating good programming practice is to write an article that expands upon a topic of interest that we cover in the early semester. You can think of this article as a potential chapter in a possible future open source textbook based on the content of DGL 104, and so it must demonstrate value to a potential future learner in this course, or in a related course. The article must be well-researched and must include references to any sources you use to develop the article. The article must also include code, either as demonstration of good coding practices, or in the form of a tutorial. 
 
 At minimum, your completed article must:
@@ -81,21 +81,21 @@ At minimum, your completed article must:
 
 This assignment is completed in a group, although there are some individual components. In particular, you will work within your group to identify a topic, to find sources, to plan the scope of your article, and to identify an appropriate division of labour for individuals in the group. Individual work might include writing some or significant portions of the article, writing some or significant portions of the sample code, and editing and proofreading; however, individual activities must be guided by the group.
 
-### SUGGESTIONS AND STRATEGIES
+### SUGGESTIONS AND STRATEGIES <!-- {docsify-ignore} -->
 - You are welcome to submit the final artefact you produce in any format you like. The most likely approach is a written document, but a video may be a good option, depending on your group and combined skills. Other options are possible - just ask!
 - Contributions for this assignment must be substantial. This assignment runs from week 1 to week 6 and encompasses in-class activities and homework activities. In total, you should be able to account for on the order of 10 hours of work over the duration of this assignment.
 - Keep lots of notes! Your notes must be made available to your group members and to me!
 - Be sure to write down your sources! Doing so as you proceed with research will be much easier than trying to track them down later.
 
 ---
-## COMMUNITY CODE PROJECT
-### OBJECTIVE
+## COMMUNITY CODE PROJECT <!-- {docsify-ignore} -->
+### OBJECTIVE <!-- {docsify-ignore} -->
 To engage good coding practices in support of a specific open source development community.
 
-### DEADLINE
+### DEADLINE <!-- {docsify-ignore} -->
 Week 10 (Week of March 13th)
 
-### WHAT YOU'RE GOING TO DO
+### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 Throughout the early to mid part of the semester you will be guided through lecture and in-class activities to integrate into an open source community of your choice (and that hopefully coincides with your interests!) and to support that community through active engagement and good coding practices. The material outcome of this assignment is code that you produce in your chosen language that is intended - perhaps in only a minor way - to *contribute* to your community, but that *also* demonstrates good coding practices and engagement with interests and concerns outside of your program of study.
 
 What constitutes *contribution* is dependent on your community, your level of programming expertise, and the amount of time you can devote to this project. The following is a non-exhaustive list of examples ordered from most approachable (i.e. easiest) to most challenging (i.e. hardest):
@@ -107,7 +107,7 @@ What constitutes *contribution* is dependent on your community, your level of pr
 
 You will record all progress and work completed for this assignment in a GitHub repository with a well-organized and detailed README.md file.
 
-### SUGGESTIONS AND STRATEGIES
+### SUGGESTIONS AND STRATEGIES <!-- {docsify-ignore} -->
 - Notice that I've been specific (in *italics*) in each example above in terms of how you might *write code* in your contribution. **It is a requirement that you write code** for this assignment; however, it is *not* a requirement that you share your code with anyone other than me. In other words, you should be able to justify how the code you write *could* help your community, but you need not share it publicly, if you're not comfortable doing so.
 - Contributions for this assignment must be substantial. This assignment runs from week 1 or week 2 all the way to week 10, many weekly activities are devoted to the development of this assignment, and I expect that you will continue to work on this assignment outside of class time as homework. In total, this means that you should be able to account for on the order of 20 or so hours over the course the semester devoted to this assignment. 
 - Create your GitHub repository early and use the repository README.md file to track progress. Keep careful notes on your progress, as this will help you in self-evaluations!
@@ -116,28 +116,27 @@ You will record all progress and work completed for this assignment in a GitHub 
 - Consistently maintaining documentation is a key component to demonstrating your learning journey in this assignment.
 
 ---
-## APP INVENTOR PROJECT
+## APP INVENTOR PROJECT <!-- {docsify-ignore} -->
 
-### OBJECTIVE
+### OBJECTIVE <!-- {docsify-ignore} -->
 
-### DEADLINE
+### DEADLINE <!-- {docsify-ignore} -->
 Week 11 (Week of March 27)
-### WHAT YOU'RE GOING TO DO
+### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 
-### SUGGESTIONS AND STRATEGIES
-
+### SUGGESTIONS AND STRATEGIES <!-- {docsify-ignore} -->
 ---
-## SELF-EVALUATIONS
-### OBJECTIVE
+## SELF-EVALUATIONS <!-- {docsify-ignore} -->
+### OBJECTIVE <!-- {docsify-ignore} -->
 To demonstrate and reflect upon what you have learned this semester.
 
-### DEADLINE
+### DEADLINE <!-- {docsify-ignore} -->
 | Component | Deadline | 
 | --- | --- | 
 | Mid-semester self-evaluation | Week 6 (Week of February 13) |
 | End-of-semester self-evaluation | Week 13 (Week of April 3) |
 
-### OVERVIEW
+### OVERVIEW <!-- {docsify-ignore} -->
 A key goal in most post-secondary programs is the development of metacognitive thinking - in other words, the skill of "thinking about thinking". The benefits of a  metacognitive process cannot be understated: By reflecting on your learning and the journey you have taken to achieve specific goals you push your learning beyond simple rote memorization of concepts and to a state whereby you can apply, analyze, and to create new artefacts that demonstrate your expertise. 
 
 In this course you will take time to carefully consider your learning journey twice: once at mid-semester and once at end-of-semester. Your self-evaluation will be guided by a checklist and series of questions that I will provide, which will ask you to carefully examine your assignments and work produced this semester. In this sense, you can think of the products of your work in this course as evidence of your learning journey, which you will use to reflect on successes (and perhaps some failures) in achieving your stated individual goals and the goals of the course.
@@ -146,7 +145,7 @@ Self-evaluation results will look different for each student. Each student's lea
 
 As an added bonus, this practice of self-evaluation and self-reflection is an excellent first step in the process of developing a portfolio of *highly meaningful* work that you can exhibit to potential employers or clients: It's all well and good to produce a portfolio of your best work, but this process will help you to articulate precisely *why* your chosen work is so good (or meaningful), and *that* could definitely be the ingredient that makes a successful job interview or first client meeting.
 
-### EXPECTATIONS
+### EXPECTATIONS <!-- {docsify-ignore} -->
 Honesty! The most critical expectation here is that you are true to your work and your efforts. By the end of the semester some of you will have put in an enormous amount of work and some of you will have just skirted the line of what is acceptable; in either case, you've learned something about yourself and your work habitsand you should report honestly on these.
 
 Completeness! Please fill out the checklist and self-evaluation questionnaire fully. It is not helpful to have a partially complete self-evaluation, so I'll consider any partially completed self-evaluations to be incomplete.
