@@ -119,13 +119,21 @@ You will record all progress and work completed for this assignment in a GitHub 
 ## APP INVENTOR PROJECT <!-- {docsify-ignore} -->
 
 ### OBJECTIVE <!-- {docsify-ignore} -->
-
+To demonstrate skill in app development using appropriate design paradigms.
 ### DEADLINE <!-- {docsify-ignore} -->
 Week 11 (Week of March 27)
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
+In the latter part of the semester course content focuses more directly on the practice of developing apps. However, you will not develop apps using native Android or iOS technologies, but rather by use of the [MIT App Inventor](https://appinventor.mit.edu/), an  [open source](https://github.com/mit-cml/appinventor-sources) visual and blocks-based programming tool that can be used to develop simple (and even somewhat complex!) apps. 
+
+Your goal will be to adopt some portion of the paradigmatic app design approaches, and / or software architecture models, as presented in this course in the development of a an app using MIT App Inventor. This process will include peer review (both code and usability), refactoring and testing processes to ensure a well-documented development process and a smooth user experience. All development progress on your app must be recorded and documented in a GitHub repository.
+
+This assignment is contextualized in part by ethical considerations in app development, in humanitarian goals, and in app development for "social impact" as outlined on the [MIT App Inventor About page](https://appinventor.mit.edu/about-us). 
 
 ### SUGGESTIONS AND STRATEGIES <!-- {docsify-ignore} -->
 ---
+- Part of the operating goal of the MIT App Inventor project is to *democratize* app development tools; meaning, MIT App Inventor has been designed with simplicity and accessibility in mind, so that even young children have an opportunity to build a working app. For students of DGL 104 then, who already have programming and some development experience, learning even some advanced uses of MIT App Inventor should be fairly approachable. That said, don't assume you'll be able to pull something together quickly last minute without prior efforts!
+- Some class time will be devoted to learning the use of MIT App Inventor. If you need more, however, there are many [tutorials](https://appinventor.mit.edu/explore/ai2/tutorials) available!
+- You can choose to log into the MIT App Inventor site with a Google account. If you prefer to remain anonymous there is an alternative log in method that allows you to [log in with a randomly generated code](http://code.appinventor.mit.edu/login/?locale=en) that you must save to resume your work. 
 ## SELF-EVALUATIONS <!-- {docsify-ignore} -->
 ### OBJECTIVE <!-- {docsify-ignore} -->
 To demonstrate and reflect upon what you have learned this semester.
@@ -146,7 +154,7 @@ Self-evaluation results will look different for each student. Each student's lea
 As an added bonus, this practice of self-evaluation and self-reflection is an excellent first step in the process of developing a portfolio of *highly meaningful* work that you can exhibit to potential employers or clients: It's all well and good to produce a portfolio of your best work, but this process will help you to articulate precisely *why* your chosen work is so good (or meaningful), and *that* could definitely be the ingredient that makes a successful job interview or first client meeting.
 
 ### EXPECTATIONS <!-- {docsify-ignore} -->
-Honesty! The most critical expectation here is that you are true to your work and your efforts. By the end of the semester some of you will have put in an enormous amount of work and some of you will have just skirted the line of what is acceptable; in either case, you've learned something about yourself and your work habitsand you should report honestly on these.
+Honesty! The most critical expectation here is that you are true to your work and your efforts. By the end of the semester some of you will have put in an enormous amount of work and some of you will have just skirted the line of what is acceptable; in either case, you've learned something about yourself and your work habits and you should report honestly on these.
 
 Completeness! Please fill out the checklist and self-evaluation questionnaire fully. It is not helpful to have a partially complete self-evaluation, so I'll consider any partially completed self-evaluations to be incomplete.
 
