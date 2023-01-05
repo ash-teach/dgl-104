@@ -5,10 +5,10 @@
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/hdVYcOgNKfc"></iframe></div>
 
 ## DOCUMENTATION
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtu.be/embed/S83xOCKfbTg"></iframe></div>
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/S83xOCKfbTg"></iframe></div>
 
 ## PLATFORM PROGRAMMING
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtu.be/embed/rPXznuTzayo"></iframe></div>
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/rPXznuTzayo"></iframe></div>
 
 # ACTIVITIES
 ## RESEARCH
