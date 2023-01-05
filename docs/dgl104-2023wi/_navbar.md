@@ -1,5 +1,5 @@
 * [Home](dgl104-2023wi/home.md)
-* [Topics](dgl104-2023wi/topics.md)
+* [Assignments](dgl104-2023wi/assignments.md)
 * [GitHub](https://github.com/nic-dgl-204-fall-2022)
 * [Resources](dgl104-2023wi/resources.md)
 * [Contact](dgl104-2023wi/contact.md)
