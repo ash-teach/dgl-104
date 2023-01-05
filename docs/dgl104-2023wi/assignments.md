@@ -1,4 +1,4 @@
-# COURSE ASSIGNMENTS
+# COURSE ASSIGNMENTS <!-- {docsify-ignore} -->
 The following provides a high-level description of assignments to be completed in this course. Additional detail and direction will be provided during regularly scheduled class time.
 
 Each of these assignments is designed to compliment content covered throughout the course, and to provide you with a vehicle for demonstrating your mastery over the course [learning outcomes](dgl104-2023wi/week-01#what-you-will-learn-in-this-course).
@@ -8,11 +8,11 @@ DGL 104 students will submit completed assignments to the DGL 104 [Brightspace s
 If you are not registered in DGL 104 feel free to follow along by completing the assignments below - the weeks assignments are due is marked along with dates for the winter 2023 offering of DGL 104. If you want feedback, however, you'll have to find a willing friend to review your work! :)
 
 --- 
-## COURSE GOALS
-### OBJECTIVE
+## COURSE GOALS <!-- {docsify-ignore} -->
+### OBJECTIVE <!-- {docsify-ignore} -->
 To think critically about what you hope to achieve from this course.
 
-### DEADLINE
+### DEADLINE <!-- {docsify-ignore} -->
 | Component | Deadline |
 | --- | --- |
 | Initial submission | Week 2 (Week of January 16)|
@@ -20,7 +20,7 @@ To think critically about what you hope to achieve from this course.
 | Second check-in | Week 8 (Week of February 27)
 | Third check-in | Week 10 (Week of Mar 13)
 
-### WHAT YOU'RE GOING TO DO
+### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 You'll refine your goals over the course of the semester. Your initial submission in week 2 will consist of clearly written and measurable goals, but as you progress through the semester you may find these goals shift, and so the check-ins are intended to provide opportunity to revise.
 
 For the initial submission:
