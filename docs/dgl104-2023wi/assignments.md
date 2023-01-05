@@ -7,6 +7,7 @@ DGL 104 students will submit completed assignments to the DGL 104 [Brightspace s
 
 If you are not registered in DGL 104 feel free to follow along by completing the assignments below - the weeks assignments are due is marked along with dates for the winter 2023 offering of DGL 104. If you want feedback, however, you'll have to find a willing friend to review your work! :)
 
+--- 
 ## COURSE GOALS
 ### OBJECTIVE
 To think critically about what you hope to achieve from this course.
@@ -42,6 +43,7 @@ On check-in revision you can repeat some or all of the steps above, and / or you
 - Be brave! Take some risks! If you find your goals are too lofty, we can always revise later!
 - Note that your goals (and whether or not you've met them) will be a key component of your self-evaluations.
 
+---
 ## RESEARCH AND REFLECTION JOURNAL
 ### OBJECTIVE
 To produce a portfolio of research and reflection related to course content.
@@ -59,6 +61,7 @@ Ongoing. Complete research and reflection work weekly and submit at mid-semester
 - Research and reflection activities are posted in each week's content. In many cases we'll do these activities (partially guided) in class, but feel free to get a jump on them and start thinking about them early.
 - You can record your responses in any modality you wish (written or otherwise recorded) as long as at least a link can be posted to a GitHub repo. 
 
+---
 ## PROGRAMMING PRACTICE ARTICLE
 ### OBJECTIVE
 To write a compelling article on a topic of your choice for future inclusion in a potential open source textbook.
@@ -84,6 +87,7 @@ This assignment is completed in a group, although there are some individual comp
 - Keep lots of notes! Your notes must be made available to your group members and to me!
 - Be sure to write down your sources! Doing so as you proceed with research will be much easier than trying to track them down later.
 
+---
 ## COMMUNITY CODE PROJECT
 ### OBJECTIVE
 To engage good coding practices in support of a specific open source development community.
@@ -111,7 +115,7 @@ You will record all progress and work completed for this assignment in a GitHub 
 - Clearly articulating for yourself what you think the goals of your chosen community are can help to keep your code project on track.
 - Consistently maintaining documentation is a key component to demonstrating your learning journey in this assignment.
 
-
+---
 ## APP INVENTOR PROJECT
 
 ### OBJECTIVE
@@ -122,6 +126,7 @@ Week 11 (Week of March 27)
 
 ### SUGGESTIONS AND STRATEGIES
 
+---
 ## SELF-EVALUATIONS
 ### OBJECTIVE
 To demonstrate and reflect upon what you have learned this semester.
