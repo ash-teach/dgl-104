@@ -1,6 +1,7 @@
 <!-- # ![Programming for Mobile App Development](images/1366x768-kotlin2022_2.png) -->
 
 # WEEK 1 (WEEK OF JANUARY 9)
+## COURSE INTRODUCTION
 ---
 Welcome to **DGL 104: Application Development Foundations**! This course is part of a series of mobile app development courses offered by the department of [DIGITAL Design + Development](https://www.nic.bc.ca/programs/arts-science-and-management/digital-design-and-development/) at [North Island College](https://nic.bc.ca) for the [Web and Mobile App Development diploma](https://www.nic.bc.ca/programs/arts-science-and-management/digital-design-and-development/web-and-mobile-application-development-diploma/) and related programs.  
 
@@ -37,8 +38,4 @@ you will get the most value out of this site by *reading* and *watching* the ass
 Each week's content also includes some activities for *research*, *reflection*, and often related to major course [assignments](). In most cases, you will complete these activities in class; however, spending some time considering them in advance will mean you are better prepared at class time. I may, from time to time, also assign these activities as homework to be completed outside of class.
 
 ### IF YOU ARE NOT REGISTERED IN DGL 104...
-or are not even an NIC student, please feel free to use this content as you see fit. You are free to learn from it, or to adapt it to your own non-commercial purposes, under the permissions granted by the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. If you do make use of the content here, please feel free to reach out to me to let me know if you've found it useful. You can contact me at: ashley dot blacquiere at nic dot bc dot ca.
-
-
-
-
+or are not even an NIC student, please feel free to use this content as you see fit. You are free to learn from it, or to adapt it to your own non-commercial purposes, under the permissions granted by the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. If you do make use of the content here, please feel free to [reach out to me](dgl104-2023wi/contact.md) to let me know if you've found it useful.
