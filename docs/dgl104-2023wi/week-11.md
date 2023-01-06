@@ -8,5 +8,6 @@
 ## ACTIVITIES
 ### RESEARCH
 - Find a testing framework for your chosen programming language and / or chosen IDE or code editor. Find documentation related to the testing framework and read at least the basic principles. How easy is the documentation to understand? Could you use the tool right away? Try writing a simple test and deploying it? Did it work? What have you learned from this process?
+
 ### REFLECT
 - When would testing have helped you most on past projects? Can you recall any past projects that would have benefitted from a test-first approach?  What is the most important learning you will take from this week (even if you don't feel comfortable using a testing framework, what can you take from the principles of testing and use in future projects)?

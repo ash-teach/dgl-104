@@ -18,6 +18,7 @@
 ### REFLECT
 - On your own use of mobile apps. What types of UI work well for you? What do you find difficult? If there were changes that you'd like to see made to a particular app, what would they be? How would you frame the requirements for these changes in terms of technological requirements?
 - Have you compiled a library of useful code snippets that you might find helpful in future projects? What code have you included and why? If you haven't yet started such a library, what snippets do you think you would include and why?
+
 ### COMMUNITY CODE
 By this week you should be thinking about the steps you need to take wrap up the your community code assignment. This means ensuring that you have a distinct contribution, clear documentation and justification, and any additional supports where needed. This is also a good time to consider refactoring for clarity, idiomatic approaches, or to conform to your community's style expectations.
 

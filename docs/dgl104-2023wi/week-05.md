@@ -14,6 +14,7 @@
 ### RESEARCH
 - Examine tools in your IDE/ editor of choice that support debugging. What features are supported? Linting? Breakpoints? Stacktraces? Exception handling? Are these handled natively by the IDE / editor, or through a plugin or extension? 
 - Search your community to find a direction on writing either a bug report or other issue. How clear are the directions? How strict are the directions? Are there consequence for not following directions? 
+
 ### REFLECT
 - When has debugging been particularly challenging? Consider a project that you've worked on in the past where a bug was particularly difficult to solve. What techniques did you use? Knowing what you know now, would you be able to improve your process? How is what you've recently learned going to help you in the future? What debugging techniques will you adopt?
 
