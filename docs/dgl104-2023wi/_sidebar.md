@@ -7,7 +7,7 @@
 - [Week 4](dgl104-2023wi/week-04)
 - [Week 5](dgl104-2023wi/week-05)
 - [Week 6](dgl104-2023wi/week-06)
-- [Week 7 - Reading week no class]()
+- [Week 7 - Reading week no class](dgl104-2023wi/home)
 - [Week 8](dgl104-2023wi/week-08)
 - [Week 9 & 10](dgl104-2023wi/week-09-10)
 - [Week 11](dgl104-2023wi/week-11)
