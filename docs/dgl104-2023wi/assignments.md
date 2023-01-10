@@ -134,7 +134,9 @@ This assignment is contextualized in part by ethical considerations in app devel
 - Part of the operating goal of the MIT App Inventor project is to *democratize* app development tools; meaning, MIT App Inventor has been designed with simplicity and accessibility in mind, so that even young children have an opportunity to build a working app. For students of DGL 104 then, who already have programming and some development experience, learning even some advanced uses of MIT App Inventor should be fairly approachable. That said, don't assume you'll be able to pull something together quickly last minute without prior efforts!
 - Some class time will be devoted to learning the use of MIT App Inventor. If you need more, however, there are many [tutorials](https://appinventor.mit.edu/explore/ai2/tutorials) available!
 - You can choose to log into the MIT App Inventor site with a Google account. If you prefer to remain anonymous there is an alternative log in method that allows you to [log in with a randomly generated code](http://code.appinventor.mit.edu/login/?locale=en) that you must save to resume your work. 
+
 ## SELF-EVALUATIONS <!-- {docsify-ignore} -->
+
 ### OBJECTIVE <!-- {docsify-ignore} -->
 To demonstrate and reflect upon what you have learned this semester.
 
