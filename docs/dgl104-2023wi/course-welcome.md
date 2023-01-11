@@ -1,5 +1,3 @@
-![Welcome sign](images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg ':class=banner-image')
-
 # WELCOME TO DGL 104 APPLICATION DEVELOPMENT FOUNDATIONS!
 Welcome to the course! On this site you will find links to all course resources and direction on how to approach your work each week, and for each course assignment. Course videos, which will provide additional direction and details, will be hosted exclusively on the course [Brightspace site](https://mycourses.nic.bc.ca/d2l/home).
 
