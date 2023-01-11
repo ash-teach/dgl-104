@@ -25,3 +25,8 @@ Identify the community site that you think will be the most valuable for you to 
 - Read through some recent threads.
 - Make a list of topics that you are interested in.
 - Bookmark / favourite / star any threads you want to continue to follow.
+
+## OPTIONAL CONTENT
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/ZsYwzr1e0bk"></iframe></div>
+
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/UhUFW-sYJwk"></iframe></div>
