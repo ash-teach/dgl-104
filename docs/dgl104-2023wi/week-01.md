@@ -39,8 +39,3 @@ Each week's content also includes some activities for *research*, *reflection*, 
 
 ### IF YOU ARE NOT REGISTERED IN DGL 104...
 or are not even an NIC student, please feel free to use this content as you see fit. You are free to learn from it, or to adapt it to your own non-commercial purposes, under the permissions granted by the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. If you do make use of the content here, please feel free to [reach out to me](dgl104-2023wi/contact.md) to let me know if you've found it useful.
-
-## OPTIONAL CONTENT
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/ZsYwzr1e0bk"></iframe></div>
-
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/UhUFW-sYJwk"></iframe></div>
