@@ -21,3 +21,15 @@ This week should be about getting into the code base of your chosen community an
 - If there are tutorials available, try one out. Make sure you *experiment* with the code and *discuss* this experimentation in your documentation. 
 - If you feel comfortable with your programming language or chosen framework already then you could choose a piece of the code base to experiment with. This should include cloning the code base locally and examining it in your IDE of choice.
 - If your community has an issue tracker (e.g. GitHub Issues) then take a look through to see if you can find a good issue (ideally one tagged as '"good first issue" or similar) that you can experiment with.
+
+## OPTIONAL CONTENT
+### So You Think You Know `window.open` - Jessica Campos
+If you don't know any JavaScript and haven't spent a lot of time with the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) some of what goes on here will be over your head. However! What we're most interested in here isn't the technical details, but the **experimental approach** that Jessica uses to explore code and features that she has little experience with.
+
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/cO2XNaLHvrQ"></iframe></div>
+
+### Meditation Through Code - Michelle Bakels
+You might find the premise of this one to be a bit out of keeping with what we typically think about with programming. What we're interested in here is in making coding - in some capacity - part of a daily routine. Michelle has some interesting ideas on how to approach that.
+
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/Ltt5mTWUTzU"></iframe></div>
+
