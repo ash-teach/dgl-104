@@ -1,9 +1,13 @@
 > # WHAT'S HAPPENING THIS WEEK <!-- {docsify-ignore} -->
-> ## WEEK 2 <!-- {docsify-ignore} -->
-> - In preparation for week 2 class you should watch the video lectures on the [Week 2](dgl104-2023wi/week-02) page.
-> - Make sure you've familiarized yourself with other aspects of the course, to be found in the [Course Welcome](dgl104-2023wi/course-welcome) and [Week 1](dgl104-2023wi/week-01) sections.
-> - Come to class in week 2 with some work done on your course goals assignment (described [here](https://ash-teach.github.io/dgl-104/#/dgl104-2023wi/assignments?id=course-goals), with some further details and examples [here](https://github.com/nic-dgl-104-winter-2023/ash-teach-research-and-reflection)).
-> - Give some thought to the [community code project](https://ash-teach.github.io/dgl-104/#/dgl104-2023wi/assignments?id=community-code-project) and make sure you're thinking about a potential community!
-> - In class in week 2 we will start work on the [programming practice article](https://ash-teach.github.io/dgl-104/#/dgl104-2023wi/assignments?id=programming-practice-article) assignment and will continue working on course goals and community code.
-# LOOKING AHEAD TO WEEK 3 <!-- {docsify-ignore} -->
-In week 3 we'll build on the start we've had in week 2 on OOP and platforms, and also on the work we've started for the programming practice article and the community code project.
+> ## WEEK 3 <!-- {docsify-ignore} -->
+> - In preparation for week 3 class you should watch the video lectures on the [Week 3](dgl104-2023wi/week-03) page.
+>   - Feel free to read through the Week 3 activities, and give them some thought, but we'll do them in class in Week 3.
+>   - Watch the first 15 minutes or so of the optional videos if you like. 
+> - Make sure that you contribute to the Discussions on Brightspace for your Programming Practice article. Your group should work towards identifying how you will divide up the work on the assignment.
+> - Keep working on identifying communities for your Community Code project. You should complete the [Community Code activity from Week 2](https://ash-teach.github.io/dgl-104/#/dgl104-2023wi/week-02?id=community-code) if you haven't completed yet.
+> - Please also complete the 'OOP capable' research activity and the 'documentation practices' reflection activity from [Week 2](dgl104-2023wi/week-02). Record these in your Research and Reflection journal on GitHub.
+
+### Remember... <!-- {docsify-ignore} -->
+...that you should be putting in **four or more hours per week** to work for this course *outside* of class. This includes watching the videos and completing the work above. However, if you find that you've completed all that work and still haven't reached four hours - then **go back and do more!** :)
+# LOOKING AHEAD TO WEEK 4 <!-- {docsify-ignore} -->
+In week 4 we'll start discussing functional programming paradigm, and we'll be looking in more detail at device constraints. We'll also spend some more time with more advanced uses of Git and GitHub, and Ben Hecht from the library will be visiting to give a talk on proper paraphrasing and writing up sources for your Programming Practice article.
