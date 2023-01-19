@@ -1,4 +1,18 @@
 # Resources <!-- {docsify-ignore} -->
+
+## Community Code Sites <!-- {docsify-ignore} -->
+- [GitHub Topics](https://github.com/topics) - star topics that you find interesting in the list (as well as repositories that you find interesting) and then visit the [GitHub Explore](https://github.com/explore) section to get some personalized suggestions.
+- [First Contributions](https://firstcontributions.github.io/) - A collection of repositories that have "good first issue" tags. Be aware that many of these *probably* assume that you have developer-level programming skills in a particular language, but don't let that dissuade you! It might still be a good place to look for communities.
+- [Codinasion - Program Solutions](https://github.com/codinasion/program) - Includes a contributions guide and discussion channel, also see the project [website](https://program.codinasion.org/)
+
+## Style Guides
+- [Kotlin Coding Convention (offical)](https://kotlinlang.org/docs/coding-conventions.html)
+- [Kotlin idioms (official)](https://kotlinlang.org/docs/idioms.html)
+- [Cornell U. Java Style Guide](https://www.cs.cornell.edu/courses/JavaAndDS/JavaStyle.html)
+- [Effective Go (official)](https://go.dev/doc/effective_go)
+- [JavaScript Guide (de facto)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [PEP8 Style Guide for Python Code (...out of date?)](https://peps.python.org/pep-0008/)
+
 ## Reflective Writing <!-- {docsify-ignore} -->
 *   [A short guide to reflective writing](https://intranet.birmingham.ac.uk/as/libraryservices/library/skills/asc/documents/public/Short-Guide-Reflective-Writing.pdf)
 *   [How Reflecting On Your Work Can Make You A Better Designer](https://medium.com/center-centre-cohort-01/how-reflecting-on-your-work-can-make-you-a-better-designer-5ce2f3886f51)
