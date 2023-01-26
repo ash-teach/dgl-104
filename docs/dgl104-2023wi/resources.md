@@ -3,7 +3,17 @@
 ## Community Code Sites <!-- {docsify-ignore} -->
 - [GitHub Topics](https://github.com/topics) - star topics that you find interesting in the list (as well as repositories that you find interesting) and then visit the [GitHub Explore](https://github.com/explore) section to get some personalized suggestions.
 - [First Contributions](https://firstcontributions.github.io/) - A collection of repositories that have "good first issue" tags. Be aware that many of these *probably* assume that you have developer-level programming skills in a particular language, but don't let that dissuade you! It might still be a good place to look for communities.
-- [Codinasion - Program Solutions](https://github.com/codinasion/program) - Includes a contributions guide and discussion channel, also see the project [website](https://program.codinasion.org/)
+
+## Great examples of potential communities
+| Main site | Rationale |
+| --- | --- |
+| [Codinasion - Program Solutions](https://github.com/codinasion/program) | A great choice for a novice coder as there are many good first issues and lots of community support. The code base comprises many individual problems, so it's easier to understand in small chunks |
+| [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) | Similar to the above, but focusing on design patterns rather than coding problems. A very active community and with good supports. Potentially a bit more challenging than Codinasion since design patterns can be more complex |
+| [The Algorithms - Java](https://github.com/TheAlgorithms/Java) | Similar again to the above, but focusing on algorithms. A very active community here as well. Potentially a bit more challenging than Java Design Patterns since understanding algorithms is a pre-requisite |
+| [Algorithms](https://github.com/keon/algorithms) | Similar to the above, but much less active |
+| [Data Structures and Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms) | Similar to the above, but much less active |
+| [RuneLite](https://github.com/runelite/runelite) | A good example of a project with a larger codebase, singular focus, and an active community. This is a great example of what a more experienced coder might choose, as there are many potential avenues for contribution in a more substantial codebase |
+| [btcpayserver](https://github.com/btcpayserver/btcpayserver) | Similar to RuneLite, though with a slightly smaller community (based on contributor / contribution numbers), and with fewer supports for good first issues |
 
 ## Style Guides
 - [Kotlin Coding Convention (offical)](https://kotlinlang.org/docs/coding-conventions.html)
