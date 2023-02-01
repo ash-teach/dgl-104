@@ -93,7 +93,7 @@ This assignment is completed in a group, although there are some individual comp
 To engage good coding practices in support of a specific open source development community.
 
 ### DEADLINE <!-- {docsify-ignore} -->
-Week 10 (Week of March 13th)
+Week 11 (Week of March 20th)
 
 ### WHAT YOU'RE GOING TO DO <!-- {docsify-ignore} -->
 Throughout the early to mid part of the semester you will be guided through lecture and in-class activities to integrate into an open source community of your choice (and that hopefully coincides with your interests!) and to support that community through active engagement and good coding practices. The material outcome of this assignment is code that you produce in your chosen language that is intended - perhaps in only a minor way - to *contribute* to your community, but that *also* demonstrates good coding practices and engagement with interests and concerns outside of your program of study.
