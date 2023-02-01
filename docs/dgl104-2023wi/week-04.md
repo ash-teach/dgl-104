@@ -22,7 +22,7 @@
 ### COMMUNITY CODE
 At this you should *start* formulating a clear idea how you would like to contribute to your community; your idea need not be complete right now, but you should be at the stage of being able to articulate at initial steps. If you are having trouble with this check out the list of ideas in the assignment description.
 
-You should also have in hand some code representing a handful of hours of work: This could be a continuation of the code experimentation started last week, or it could be a completely new path. Whether this code is 10 lines or 100 isn't important, but you should be able to demonstrate (through documentation or presentation) what that code represents in your learn.
+You should also have in hand some code representing a handful of hours of work: This could be a continuation of the code experimentation started last week, or it could be a completely new path. Whether this code is 10 lines or 100 isn't important, but you should be able to demonstrate (through documentation or presentation) what that code represents in your learning process.
 
 ### RECYCLERVIEW PSEUDOCODE EXERCISE
 Write some code in the language your choice that mocks up what is represented by the [RecyclerView pseudocode](https://github.com/nic-dgl-104-winter-2023/recycler-view-pseudo) presented in class. **Note** that there is no expectation that your code should *run*, I only need you to write representations (as described below) in your programming language of choice as a demonstration of how these components may appear in your language.
