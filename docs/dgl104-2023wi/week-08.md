@@ -35,15 +35,20 @@ Logging into AI2 __requires__ a Google account. You can choose to use an existin
 #### LOGGING IN WITH A ONE-TIME CODE <!-- {docsify-ignore} -->
 Alternatively, if you prefer not to use a Google account you can access AI2 using a one-time code. Visit [this alternative site](https://code.appinventor.mit.edu/login/) and press the 'Continue without Google' button:
 
-![Continue without Google](../assets/images/Screenshot%202023-02-27%20at%209.33.15%20AM.png)
-
+<div style="display: flex; justify-content: center">
+<img src="../assets/images/Screenshot%202023-02-27%20at%209.33.15%20AM.png" width="300">
+</div>
 Once AI2 loads you will be provided with a one-time four-word code. __Write this code down!__ 
 
-![One-time code](../assets/images/Screenshot%202023-02-27%20at%209.33.30%20AM.png)
+<div style="display: flex; justify-content: center">
+<img src="../assets/images/Screenshot%202023-02-27%20at%209.33.30%20AM.png" width="300">
+</div>
 
 In order to access your work in the future you will need to enter this code in the login screen, as pictured below:
 
-![One-time code applied](../assets/images/Screenshot%202023-02-27%20at%209.36.59%20AM.png)
+<div style="display: flex; justify-content: center">
+<img src="../assets/images/Screenshot%202023-02-27%20at%209.36.59%20AM.png" width="300">
+</div>
 
 ### \[OPTIONAL\] AI2 SPACE INVADERS APP
 The MIT App Inventor [Space Invaders tutorial](http://appinventor.mit.edu/explore/ai2/space-invaders) is a fun one to get started with. The tutorial is marked as 'intermediate' but with your prior experience in programming it should be closer to easy for you - with the caveat that finding all the right components and blocks might be tricky.
