@@ -36,18 +36,18 @@ Logging into AI2 __requires__ a Google account. You can choose to use an existin
 Alternatively, if you prefer not to use a Google account you can access AI2 using a one-time code. Visit [this alternative site](https://code.appinventor.mit.edu/login/) and press the 'Continue without Google' button:
 
 <div style="display: flex; justify-content: center">
-<img src="../assets/images/Screenshot%202023-02-27%20at%209.33.15%20AM.png" width="300">
+<img src="./assets/images/Screenshot%202023-02-27%20at%209.33.15%20AM.png" width="300">
 </div>
 Once AI2 loads you will be provided with a one-time four-word code. __Write this code down!__ 
 
 <div style="display: flex; justify-content: center">
-<img src="../assets/images/Screenshot%202023-02-27%20at%209.33.30%20AM.png" width="300">
+<img src="./assets/images/Screenshot%202023-02-27%20at%209.33.30%20AM.png" width="300">
 </div>
 
 In order to access your work in the future you will need to enter this code in the login screen, as pictured below:
 
 <div style="display: flex; justify-content: center">
-<img src="../assets/images/Screenshot%202023-02-27%20at%209.36.59%20AM.png" width="300">
+<img src="./assets/images/Screenshot%202023-02-27%20at%209.36.59%20AM.png" width="300">
 </div>
 
 ### \[OPTIONAL\] AI2 SPACE INVADERS APP
