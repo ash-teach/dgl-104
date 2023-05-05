@@ -1,6 +1,6 @@
 <!-- # ![Programming for Mobile App Development](images/1366x768-kotlin2022_2.png) -->
 
-# WEEK 1 (WEEK OF JANUARY 9)
+# WEEK 1 
 ## COURSE INTRODUCTION
 ---
 Welcome to **DGL 104: Application Development Foundations**! This course is part of a series of mobile app development courses offered by the department of [DIGITAL Design + Development](https://www.nic.bc.ca/programs/arts-science-and-management/digital-design-and-development/) at [North Island College](https://nic.bc.ca) for the [Web and Mobile App Development diploma](https://www.nic.bc.ca/programs/arts-science-and-management/digital-design-and-development/web-and-mobile-application-development-diploma/) and related programs.  
