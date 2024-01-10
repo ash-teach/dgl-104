@@ -63,6 +63,42 @@ Read the [Logging into MIT AI2](#logging-in-to-mit-ai2) section below to learn h
 2. Examine the code blocks in the completed app with a critical eye. How could the code blocks be improved?
 3. What is one thing you learned about programming today that you didn't know before?
 
+## EMULATION FOR MIT APP INVENTOR
+`AI2` does not provide a runnable environment in the editor. Instead, you must either run your app on an actual device, or emulate it using your computer. MIT provides [these four options](http://appinventor.mit.edu/explore/ai2/setup) to set up a testing environment. 
+
+The **recommended** and first approach is to use your device and download the `AI2` companion app on either the [AppStore](https://apps.apple.com/ca/app/mit-app-inventor/id1422709355?ign-itscg=30200&ign-itsct=apps_box) or the [Google Play](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1). This is by far the most convenient approach since it's quick and you can test your app while making changes live in the editor. 
+
+However, you may not have a device, may prefer not to download an app, or you maybe limited by your network connection (the device with the `AI2` companion app must be on the same wifi network as the computer hosting the app). In these cases you may either: 
+- Install the official `AI2` emulator ([option 3](http://appinventor.mit.edu/explore/ai2/setup-emulator) in the link above). This works reasonably well for Windows-based machines, but I've personally not had a lot of success getting the MacOS version running; or 
+- You may install Android Studio and use the packaged Android Studio emulator. 
+
+Using the `AI2` emulator is arguably better, if you can get it to run, since it also allows live coding updates to the emulated device. Follow the directions linked to above to try it out, if you like. 
+
+If no other option above works then installing Android Studio is a viable option. This is perhaps more valuable to those of you who will be in DGL 114 this semester, since you will likely be installing Android Studio as the IDE of choice for developing Android apps.
+
+### INSTALLING ANDROID STUDIO
+The biggest pain in installing Android Studio is the size of the software. THe initial download and installer is relatively small, but once you start the install process there will be larger files to download. 
+
+The process is outlined very clearly in [this codelab](https://developer.android.com/codelabs/basic-android-kotlin-training-install-android-studio?hl=en#0). The most relevant part is the [Install Android Studio](https://developer.android.com/codelabs/basic-android-kotlin-training-install-android-studio?hl=en#4) section, which includes a [link](https://developer.android.com/studio/install.html) (at the top of the page) to more detailed instructions with screencasts.
+
+Once you have installed Android Studio you will need to set up an AVD (or Android Virtual Device) to emulate. The instructions in the third part of [this codelab](https://developer.android.com/codelabs/basic-android-kotlin-training-first-template-project#2) (titled "Run your app on a virtual device") walks you through the steps of creating a new AVD and running it. You don't need to follow any other part of this codelab tutorial.
+
+### INSTALLING THE APK ON THE EMULATOR
+First open Android Studio and run the emulator as described in the tutorial above. Or, you can access the AVD manager directly from the Android Studio New Project screen as demonstrated below:
+
+![open avd](../assets/images/week1-open-avd.gif)
+
+In `AI2` build a new apk file using teh Build > Android App (.apk) menu item:
+
+![build apk](../assets/images/week1-build-apk.gif)
+
+When the build process is complete download the apk using the Download .apk now button:
+
+![download apk](../assets/images/week1-download-apk.gif)
+
+Finally, install the apk on the emulated device by dragging and dropping the apk file to the emulator, then open the installed app on the device (note that in Android you can swipe, i.e. click hold and drag, up from any position on screen to open the app drawer):
+
+![install apk](../assets/images/week1-install-apk.gif)
 
 ## LOGGING IN TO MIT AI2
 The [main MIT AI2 site](http://appinventor.mit.edu/) has many great resources available. You can access AI from this site (click on the big orange `Create Apps!` button in the upper left), or you can visit the [AI2 site](http://ai2.appinventor.mit.edu) directly.
