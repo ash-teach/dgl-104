@@ -24,7 +24,8 @@ Identify the community site that you think will be the most valuable for you to 
 ## ACTIVITIES
 ### RESEARCH
 - In continuation from last week, what other languages that you know (or might be learning) are OOP capable? Compare and contrast last week's language with your choice this week. 
-- Examine an API or library supporting your chosen programming language. What do you notice in particular about the documentation approach the author's take? Is the documentation clear? Well-organized? Do you think you'd be able to find what you're looking for?
+
+- Determine if your chosen programming language is OOP capable. To what extent does it support OOP? Fully, or partially? Does it support any other paradigms? 
 
 ### REFLECT
 - Consider your use of GitHub in previous classes, or outside of school. What do you feel you understand well? What do you feel completely in the dark about? How are you going to improve your understanding?

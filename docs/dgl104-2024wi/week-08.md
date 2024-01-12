@@ -6,6 +6,12 @@
 
 <!-- 
 
+### COMMUNITY CODE
+Identify the community site that you think will be the most valuable for you to regularly engage with throughout the semester. Make a user profile and introduce yourself in a 'new members' (or similar) forum. Do the following:
+- Read through some recent threads.
+- Make a list of topics that you are interested in.
+- Bookmark / favourite / star any threads you want to continue to follow.
+
 
 ## OPTIONAL CONTENT
 Watch this video to get a sense of why we're interested in community development
