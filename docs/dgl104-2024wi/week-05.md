@@ -12,6 +12,10 @@
 ### REFLECT
 - When would testing have helped you most on past projects? Can you recall any past projects that would have benefitted from a test-first approach?  What is the most important learning you will take from this week (even if you don't feel comfortable using a testing framework, what can you take from the principles of testing and use in future projects)?
 
+1. Did the development of the UI of your app proceed smoothly? Or were there unexpected challenges?
+2. To what degree did you do design work (possibly in other classes, like DGL 111) to support the development of your app? How helpful was this design in the process of development?
+3. How do you anticipate that your app code may change as you continue development? Do you anticipate that you will use any design patterns or architectural patterns?
+
 ## OPTIONAL CONTENT
 - [Reading 3: Testing strategies (MIT OCW 6.005)](https://ocw.mit.edu/ans7870/6/6.005/s16/classes/03-testing/index.html)
  -->
