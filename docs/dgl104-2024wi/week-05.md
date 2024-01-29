@@ -18,5 +18,12 @@
 
 ## OPTIONAL CONTENT
 - [Reading 3: Testing strategies (MIT OCW 6.005)](https://ocw.mit.edu/ans7870/6/6.005/s16/classes/03-testing/index.html)
+### So You Think You Know `window.open` - Jessica Campos
+If you don't know any JavaScript and haven't spent a lot of time with the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) some of what goes on here will be over your head. However! What we're most interested in here isn't the technical details, but the **experimental approach** that Jessica uses to explore code and features that she has little experience with.
+
+<div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/cO2XNaLHvrQ"></iframe></div>
+
+
  -->
+
 
