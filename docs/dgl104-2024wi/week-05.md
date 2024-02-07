@@ -3,6 +3,13 @@
 
 _A guide and collection of resources to support student work in the development of the Programming Practice article and the MIT App Inventor project._ 
 
+**TABLE OF CONTENTS**
+1. [The best writing tools for projects](#the-best-writing-tools-for-projects)
+2. [How to submit projects properly](#how-to-submit-projects-properly)
+3. [How to use generative AI](#how-to-use-generative-ai)
+
+---
+
 ### THE BEST WRITING TOOLS FOR PROJECTS
 
 > **TL;DR**: Write your Programming Practice article in a GitHub `README.md` file in a fresh repo; write any project-level documentation for your `AI2` project in a `README.md` file in your `AI2` repo.
@@ -23,6 +30,8 @@ Tools that are **not acceptable** include:
 - In general, any rich text editor
 
 While you could conceivably write code in Word or Pages, there is a lot of unnecessary extra work to format it properly. Students are often tempted to use Word, or Pages (or similar) and to paste in screenshots of code. This is also **unacceptable** as the code is not editable in the document, and cannot easily be fixed (or critiqued).
+
+---
 
 ### HOW TO SUBMIT PROJECTS PROPERLY
 
@@ -63,6 +72,8 @@ Submitting the `AI2` project is even easier, since there is only one option: Sub
 ![ai1 submission form](../assets/images/week5-ai2-submit.png)
 3. Paste your GitHub repo url into the comment box
 4. Press the Submit button.
+
+---
 
 ### HOW TO USE GENERATIVE AI
 
