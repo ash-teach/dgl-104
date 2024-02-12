@@ -34,6 +34,7 @@ However, since style itself has little bearing on the function of the language, 
 Now that you have some experience with `AI2` start thinking about the type of app you might create for your MIT App Inventor project (due the week of Feb. 12). You can build any kind of app you like, but there are specific requirements that you must meet (described on Brightspace). Feel free to use any brainstorming method you like and try to come up with a shortlist of possible apps, since you may find your first choice is infeasible for one reason or another.
 
 Some advice:
+- Check out the [AI2 repo management guide](https://github.com/nic-dgl104-winter-2024/guide-ai2-repo-management) to get a sense how best to handle your `AI2` repo.
 - Keep your initial idea small. It's much easier to build an MVP and add more features later.
 - Feel free to reach out to me, or to your peers, to ask for feedback on your ideas.
 - If you know about user stories feel free to generate some to help you identify features.
@@ -53,7 +54,7 @@ The advantage to working on a defined project for these tasks is that you don't 
 The code review will be a little less comfortable. This is because the `AI2` code won't render on GitHub, so you'll have to download your peer's code, run it, and submit comments through a non-standard means. I'll demonstrate this via video during Week 2.
 
 ### [RECOMMENDED] START WORK ON PROGRAMMING PRACTICE ARTICLE
-You can read more about the Programming Practice Article assignment on the Brightspace assignments tab. Suffice to say, the article is due the week of Feb. 12th - four weeks from now - and starting work on it now will help keep you on track. Take a read through the topic options, do some brainstorming around the angle you'd like to take, and perhaps start collecting some resources.
+You can read more about the Programming Practice Article assignment on the Brightspace assignments tab. Suffice to say, the article is due the week of Feb. 12th - four weeks from now - and starting work on it now will help keep you on track. Take a read through the topic options, do some brainstorming around the angle you'd like to take, and perhaps start collecting some resources. Take a look at the [Programming Practice article guide](https://github.com/nic-dgl104-winter-2024/guide-programming-practice-article) I've written to get started!
 
 ### [REQUIRED] OPTIONAL RESOURCES
 Since optional resources are... well... _optional_, I will rarely require you to engage with them. However, as you are becoming comfortable with this class and how to navigate required and recommended work I'd like you to take some time this week to engage with at least _one_ of the [optional resources](#optional-resources) below. 
