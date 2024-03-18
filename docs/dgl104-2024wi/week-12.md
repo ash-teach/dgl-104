@@ -1,4 +1,4 @@
-# WEEK 12 (WEEK OF MARCH 26)
+# WEEK 12 (WEEK OF MARCH 25)
 ## LECTURE - FUNCTIONAL PROGRAMMING
 ### FUNCTIONAL PARADIGM
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/_uXZ8HvHH7o"></iframe></div>
