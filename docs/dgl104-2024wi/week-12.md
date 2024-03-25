@@ -1,24 +1,21 @@
 # WEEK 12 (WEEK OF MARCH 25)
 ## LECTURE - FUNCTIONAL PROGRAMMING
 ### FUNCTIONAL PARADIGM
+If you haven't caught on yet - I love functional programming! :D  And these days, [lots](https://spectrum.ieee.org/functional-programming) of [other people](https://github.com/readme/featured/functional-programming) do [too](https://towardsdatascience.com/why-developers-are-falling-in-love-with-functional-programming-13514df4048e). Most notably, although functional programming has long been thought of as a tool of academic research labs, functional languages and tools are more and more frequently used to support web and mobile app development, typically via [backend](http://suave.io/) [support](https://elixir-lang.org/blog/2020/10/27/delivering-social-change-with-elixir-at-change.org/), but [even](https://haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html) for [front-end](https://elm.land/) [development](https://clojure-doc.org/articles/tutorials/basic_web_development)!
+
+In this class, our interest is less in the use of functional languages directly, and more in the use of functional _tools_, by which I mean specific types of _functional-style_ APIs (typically related to collections, like arrays, lists, etc.) that offer methods such as `map`, `filter`, and `reduce`. Most modern program languages (including Java, Kotlin, Swift, JavaScript and a whole host more) offer API methods like these to increase code efficiency relating to collection-based computations and programs. I strongly encourage you to consider adopting these types of methods where appropriate, rather than using imperative-style loops, to make your code more concise and beautiful!
+
+Check out the following video for more information:
+
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/_uXZ8HvHH7o"></iframe></div>
 
-<!-- ## ACTIVITIES
-### RESEARCH
-- Determine if your chosen programming language is functional programming capable. To what extent does it support functional? Fully, partially, or not at all? Are there any functional-like tools (e.g. functions, methods) that replicate some functional behaviours?
-- What Git tools are available to your IDE or code editor of choice? Is there a GitHub integration? Are features provided natively in the IDE / editor, or through a plugin / extension? Is there a diff tool available?  
+## ACTIVITIES
 
-### REFLECT
-- What device constraints have you experienced in your own mobile device usage? Have you experienced any pain points, or friction in the use of a device? Do you use any accessibility features, or are there any accessibility features that you wish were available (considering either your usage, or a friend's usage)?
-- How has your Git knowledge improved in the last few weeks? In the last few months? What is one area of Git that you know little about, or that you are confused about?  
+As the last week of the Community Code project I encourage you to spend your time completing any outstanding tasks left on your plate. The deadline for submission is posted as Feb. 28th, but I will accept submissions up until Apr. 3rd, leaving the final few days next week for completion of the Research and Reflection journal.
 
-### COMMUNITY CODE
-At this you should *start* formulating a clear idea how you would like to contribute to your community; your idea need not be complete right now, but you should be at the stage of being able to articulate at initial steps. If you are having trouble with this check out the list of ideas in the assignment description.
+### To submit your Community Code assignment:
+The Community Code assignment dropbox on Brightspace asks for a text submission. Please include a link to your Research and Reflection Journal and to **your** fork of your Community Code Part 1 external repository. I will be looking _specifically_ for evidence of work completed for Part 1 and Part 2 (likely in the form of bulleted lists), and reflections on your work for _both_ Parts 1 and 2 (as required by the assignment description).
 
-You should also have in hand some code representing a handful of hours of work: This could be a continuation of the code experimentation started last week, or it could be a completely new path. Whether this code is 10 lines or 100 isn't important, but you should be able to demonstrate (through documentation or presentation) what that code represents in your learning process.
+> **Please ensure that you provide links to _all_ actions that you have taken - including all actions taken on pattern-library contributions! I will not be able to easily search for all your individual contributions, so whatever you submit via this method is what I will grade!**
 
-
-### COMMUNITY CODE
-By this week you should be thinking about the steps you need to take wrap up the your community code assignment. This means ensuring that you have a distinct contribution, clear documentation and justification, and any additional supports where needed. This is also a good time to consider refactoring for clarity, idiomatic approaches, or to conform to your community's style expectations.
-
-The code that you have produced for this project is likely more extensive than the specific code you intend to point to as your actual community contribution. For example, you may have completed multiple tutorials, or produced a number of coding experiments along the way to help you better understand your community and your goals. The final code that represents the community contribution might be relatively small (a couple dozen lines, for example) but is backed up / supported by all the other code you've written as part of this project. You should submit all the code you have produced to an appropriate repository, but you need only make your contribution well-organized, well-written and properly documented. -->
+I will not be reviewing your Research and Reflection Journal as part of this submission, other than the  lists of contributions and the required reflections (see the assignment description for more info).
